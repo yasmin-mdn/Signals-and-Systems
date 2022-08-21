@@ -10,8 +10,10 @@ Assignment 2
 
 
 Assignment 3
+ * Written assignment about concepts
 
 Assignment 4
+ * Reading audio files using python and getting to know its libraries
 
 Assignment 5
 
