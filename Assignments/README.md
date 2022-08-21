@@ -2,11 +2,11 @@
 
 Assignment 1
 
-  * Sub Written assignment about concepts
+  * Written assignment about concepts
 
 
 Assignment 2
-   * Sub Written assignment about concepts
+   * Written assignment about concepts
 
 
 Assignment 3
