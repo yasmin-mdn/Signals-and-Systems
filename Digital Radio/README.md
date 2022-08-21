@@ -13,3 +13,4 @@ In each line, the value of one sample of the input signal is written
 The written program must work in real-time and prepare the output with a maximum delay of 200ms. Also, the program should be able to work with other files as well.
 
 
+![radio](https://github.com/yasmin-mdn/Signals-and-Systems/blob/main/Digital%20Radio/pic.png)
